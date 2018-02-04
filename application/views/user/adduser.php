@@ -1,3 +1,4 @@
+<form action ="/user/create"method ="post"></form>
 <table class="table table-dark table-striped table-bordered">
 
             <thead>
